@@ -5,7 +5,7 @@
 * Deep Jain
 * [Aaron Brown](aaron-brown)
 * Andrew Farley 
-* [Nicolas Gutkowski](nicolasgutkowski.md)
+* [Nicolas Gutkowski](Users/nicolasgutkowski.md)
 * Michael Snellings
 
 
