@@ -7,4 +7,4 @@
 * [Michael Snellings](Users/michael-snellings.md)
 * [Nicolas Gutkowski](Users/nicolas-gutkowski.md)
 * Caitlyn Stone
-
+* [Yen Truong](Users/yen-truong.md)
