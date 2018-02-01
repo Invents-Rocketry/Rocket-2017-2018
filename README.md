@@ -3,7 +3,7 @@
 ## The Members Avionics Sub-Team of:
 * Caitlyn Stone
 * Deep Jain
-* Aaron Brown
+* [Aaron Brown](aaron-brown)
 * Andrew Farley 
 * Michael Snellings
 * Nicolas Gutkowski
