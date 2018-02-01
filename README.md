@@ -5,5 +5,6 @@
 * Deep Jain
 * Aaron Brown
 * Andrew Farley 
-* Nicolas Gutkowski
 * Michael Snellings
+* Nicolas Gutkowski
+
