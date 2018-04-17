@@ -1,0 +1,3 @@
+[submodule "BBE_Sensors"]
+	path = BBE_Sensors
+	url = https://github.com/sancloud/BBE_Sensors.git
